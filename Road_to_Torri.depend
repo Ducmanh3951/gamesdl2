@@ -1,0 +1,301 @@
+# depslib dependency file v1.0
+1712669836 source:c:\users\admin\desktop\c++\road_to_torri\character.cpp
+	"Functions.h"
+	"Character.h"
+	"Threats.h"
+
+1712672954 c:\users\admin\desktop\c++\road_to_torri\functions.h
+	<SDL.h>
+	<bits/stdc++.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<sstream>
+	<fstream>
+
+1712670058 c:\users\admin\desktop\c++\road_to_torri\character.h
+	"LTexture.h"
+
+1712670095 c:\users\admin\desktop\c++\road_to_torri\ltexture.h
+	"Functions.h"
+
+1712675455 c:\users\admin\desktop\c++\road_to_torri\threats.h
+	"Functions.h"
+	"LTexture.h"
+
+1712670025 source:c:\users\admin\desktop\c++\road_to_torri\functions.cpp
+	"Functions.h"
+	"Character.h"
+	"Threats.h"
+	"LTexture.h"
+
+1712676730 source:c:\users\admin\desktop\c++\road_to_torri\lmedia.cpp
+	"LMedia.h"
+	"LTexture.h"
+
+1712670225 c:\users\admin\desktop\c++\road_to_torri\lmedia.h
+	"LTexture.h"
+	"Functions.h"
+
+1712669899 source:c:\users\admin\desktop\c++\road_to_torri\ltexture.cpp
+	"Functions.h"
+	"LTexture.h"
+
+1712669915 source:c:\users\admin\desktop\c++\road_to_torri\ltimer.cpp
+	"LTimer.h"
+	"Functions.h"
+
+1712670111 c:\users\admin\desktop\c++\road_to_torri\ltimer.h
+
+1712676575 source:c:\users\admin\desktop\c++\road_to_torri\main.cpp
+	"LTexture.h"
+	"Functions.h"
+	"LTimer.h"
+	"Character.h"
+	"Threats.h"
+	"LMedia.h"
+
+1712675455 source:c:\users\admin\desktop\c++\road_to_torri\threats.cpp
+	"Threats.h"
+	"Functions.h"
+
+1712669836 source:c:\users\admin\onedrive\desktop\c++\road_to_torri\character.cpp
+	"Functions.h"
+	"Character.h"
+	"Threats.h"
+
+1712672954 c:\users\admin\onedrive\desktop\c++\road_to_torri\functions.h
+	<SDL.h>
+	<bits/stdc++.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<sstream>
+	<fstream>
+
+1712670058 c:\users\admin\onedrive\desktop\c++\road_to_torri\character.h
+	"LTexture.h"
+
+1712670095 c:\users\admin\onedrive\desktop\c++\road_to_torri\ltexture.h
+	"Functions.h"
+
+1712675455 c:\users\admin\onedrive\desktop\c++\road_to_torri\threats.h
+	"Functions.h"
+	"LTexture.h"
+
+1712670025 source:c:\users\admin\onedrive\desktop\c++\road_to_torri\functions.cpp
+	"Functions.h"
+	"Character.h"
+	"Threats.h"
+	"LTexture.h"
+
+1712676730 source:c:\users\admin\onedrive\desktop\c++\road_to_torri\lmedia.cpp
+	"LMedia.h"
+	"LTexture.h"
+
+1712670225 c:\users\admin\onedrive\desktop\c++\road_to_torri\lmedia.h
+	"LTexture.h"
+	"Functions.h"
+
+1712669899 source:c:\users\admin\onedrive\desktop\c++\road_to_torri\ltexture.cpp
+	"Functions.h"
+	"LTexture.h"
+
+1712669915 source:c:\users\admin\onedrive\desktop\c++\road_to_torri\ltimer.cpp
+	"LTimer.h"
+	"Functions.h"
+
+1712670111 c:\users\admin\onedrive\desktop\c++\road_to_torri\ltimer.h
+
+1712676575 source:c:\users\admin\onedrive\desktop\c++\road_to_torri\main.cpp
+	"LTexture.h"
+	"Functions.h"
+	"LTimer.h"
+	"Character.h"
+	"Threats.h"
+	"LMedia.h"
+
+1712675455 source:c:\users\admin\onedrive\desktop\c++\road_to_torri\threats.cpp
+	"Threats.h"
+	"Functions.h"
+
+1712669836 source:c:\users\admin\onedrive\desktop\c++\road_to_torii\character.cpp
+	"Functions.h"
+	"Character.h"
+	"Threats.h"
+
+1712672954 c:\users\admin\onedrive\desktop\c++\road_to_torii\functions.h
+	<SDL.h>
+	<bits/stdc++.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<sstream>
+	<fstream>
+
+1712670058 c:\users\admin\onedrive\desktop\c++\road_to_torii\character.h
+	"LTexture.h"
+
+1712670095 c:\users\admin\onedrive\desktop\c++\road_to_torii\ltexture.h
+	"Functions.h"
+
+1712675455 c:\users\admin\onedrive\desktop\c++\road_to_torii\threats.h
+	"Functions.h"
+	"LTexture.h"
+
+1712670025 source:c:\users\admin\onedrive\desktop\c++\road_to_torii\functions.cpp
+	"Functions.h"
+	"Character.h"
+	"Threats.h"
+	"LTexture.h"
+
+1712676730 source:c:\users\admin\onedrive\desktop\c++\road_to_torii\lmedia.cpp
+	"LMedia.h"
+	"LTexture.h"
+
+1712670225 c:\users\admin\onedrive\desktop\c++\road_to_torii\lmedia.h
+	"LTexture.h"
+	"Functions.h"
+
+1712669899 source:c:\users\admin\onedrive\desktop\c++\road_to_torii\ltexture.cpp
+	"Functions.h"
+	"LTexture.h"
+
+1712669915 source:c:\users\admin\onedrive\desktop\c++\road_to_torii\ltimer.cpp
+	"LTimer.h"
+	"Functions.h"
+
+1712670111 c:\users\admin\onedrive\desktop\c++\road_to_torii\ltimer.h
+
+1712676575 source:c:\users\admin\onedrive\desktop\c++\road_to_torii\main.cpp
+	"LTexture.h"
+	"Functions.h"
+	"LTimer.h"
+	"Character.h"
+	"Threats.h"
+	"LMedia.h"
+
+1712675455 source:c:\users\admin\onedrive\desktop\c++\road_to_torii\threats.cpp
+	"Threats.h"
+	"Functions.h"
+
+1712797849 source:d:\new download\road_to_torii\character.cpp
+	"Functions.h"
+	"Character.h"
+	"Threats.h"
+
+1712677350 d:\new download\road_to_torii\functions.h
+	<SDL.h>
+	<bits/stdc++.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<sstream>
+	<fstream>
+
+1712797849 d:\new download\road_to_torii\character.h
+	"LTexture.h"
+
+1712677350 d:\new download\road_to_torii\ltexture.h
+	"Functions.h"
+
+1712677351 d:\new download\road_to_torii\threats.h
+	"Functions.h"
+	"LTexture.h"
+
+1712677350 source:d:\new download\road_to_torii\functions.cpp
+	"Functions.h"
+	"Character.h"
+	"Threats.h"
+	"LTexture.h"
+
+1712677350 source:d:\new download\road_to_torii\lmedia.cpp
+	"LMedia.h"
+	"LTexture.h"
+
+1712677350 d:\new download\road_to_torii\lmedia.h
+	"LTexture.h"
+	"Functions.h"
+
+1712677350 source:d:\new download\road_to_torii\ltexture.cpp
+	"Functions.h"
+	"LTexture.h"
+
+1712677350 source:d:\new download\road_to_torii\ltimer.cpp
+	"LTimer.h"
+	"Functions.h"
+
+1712677350 d:\new download\road_to_torii\ltimer.h
+
+1712797849 source:d:\new download\road_to_torii\main.cpp
+	"LTexture.h"
+	"Functions.h"
+	"LTimer.h"
+	"Character.h"
+	"Threats.h"
+	"LMedia.h"
+
+1712677351 source:d:\new download\road_to_torii\threats.cpp
+	"Threats.h"
+	"Functions.h"
+
+1715526513 source:d:\new download\gamesdl2-main\character.cpp
+	"Functions.h"
+	"Character.h"
+	"Threats.h"
+
+1715526513 d:\new download\gamesdl2-main\functions.h
+	<SDL.h>
+	<bits/stdc++.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<sstream>
+	<fstream>
+
+1715526513 d:\new download\gamesdl2-main\character.h
+	"LTexture.h"
+
+1715526513 d:\new download\gamesdl2-main\ltexture.h
+	"Functions.h"
+
+1712677351 d:\new download\gamesdl2-main\threats.h
+	"Functions.h"
+	"LTexture.h"
+
+1715526513 source:d:\new download\gamesdl2-main\functions.cpp
+	"Functions.h"
+	"Character.h"
+	"Threats.h"
+	"LTexture.h"
+
+1715528555 source:d:\new download\gamesdl2-main\lmedia.cpp
+	"LMedia.h"
+	"LTexture.h"
+
+1715526513 d:\new download\gamesdl2-main\lmedia.h
+	"LTexture.h"
+	"Functions.h"
+
+1715526513 source:d:\new download\gamesdl2-main\ltexture.cpp
+	"Functions.h"
+	"LTexture.h"
+
+1715526513 source:d:\new download\gamesdl2-main\ltimer.cpp
+	"LTimer.h"
+	"Functions.h"
+
+1715526513 d:\new download\gamesdl2-main\ltimer.h
+
+1715528719 source:d:\new download\gamesdl2-main\main.cpp
+	"LTexture.h"
+	"Functions.h"
+	"LTimer.h"
+	"Character.h"
+	"Threats.h"
+	"LMedia.h"
+
+1712677351 source:d:\new download\gamesdl2-main\threats.cpp
+	"Threats.h"
+	"Functions.h"
+
