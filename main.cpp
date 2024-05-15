@@ -169,9 +169,9 @@ void handle_keyboard_events(SDL_Event e, SDL_Renderer* &gRenderer,
             if(e.key.keysym.sym == SDLK_ESCAPE) check_exit = true;
             else if(e.key.keysym.sym == SDLK_h) {check_instruction = true; check_return = false;}
                 else if(e.key.keysym.sym == SDLK_c) {check_select = true; check_return = false;}
-                else if(e.key.keysym.sym == SDLK_1) {check_select1 = true; check_select2 = false; check_select3 = false; check_return = false;}
-                else if(e.key.keysym.sym == SDLK_2) {check_select1 = false; check_select2 = true; check_select3 = false; check_return = false;}
-                else if(e.key.keysym.sym == SDLK_3) {check_select1 = false; check_select2 = false; check_select3 = true; check_return = false;}
+                else if(e.key.keysym.sym == SDLK_1&& check_start_game== check_game_over) {check_select1 = true; check_select2 = false; check_select3 = false; check_return = false;}
+                else if(e.key.keysym.sym == SDLK_2&& check_start_game== check_game_over) {check_select1 = false; check_select2 = true; check_select3 = false; check_return = false;}
+                else if(e.key.keysym.sym == SDLK_3&& check_start_game== check_game_over) {check_select1 = false; check_select2 = false; check_select3 = true; check_return = false;}
                 else if(e.key.keysym.sym == SDLK_r) {check_return = true; check_instruction = false; check_select = true;}
                 else if(e.key.keysym.sym == SDLK_s)check_start_game = true;
             if(check_start_game && !check_game_over)
